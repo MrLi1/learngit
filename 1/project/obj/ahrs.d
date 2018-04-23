@@ -1,0 +1,16 @@
+.\obj\ahrs.o: ..\user\ahrs.c
+.\obj\ahrs.o: ..\lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\ahrs.o: ..\lib\CMSIS\CM3\CoreSupport\core_cm3.h
+.\obj\ahrs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\ahrs.o: ..\lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\obj\ahrs.o: ..\user\stm32f10x_conf.h
+.\obj\ahrs.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\obj\ahrs.o: ..\lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\ahrs.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\ahrs.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\ahrs.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\obj\ahrs.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\obj\ahrs.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\ahrs.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\ahrs.o: ..\user\ahrs.h
+.\obj\ahrs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
